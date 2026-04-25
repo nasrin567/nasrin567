@@ -20,15 +20,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### 🔹 SQL Data Analytics Project  
-- Analyzed sales data using advanced SQL queries  
-- Identified key trends and business insights  
-
-👉 [View Project](https://github.com/nasrin567/YOUR-REPO)
-
----
 
 ## 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=nasrin567&show_icons=true&theme=radical)
@@ -36,5 +27,5 @@
 ---
 
 ## 📫 Contact  
-- Email: your-email  
-- LinkedIn: your-link  
+- Email: nasrinkhatoon4421@gmail.com
+- LinkedIn: your- https://www.linkedin.com/in/nasrin-khatoon-89176b2a6
