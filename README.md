@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Nasrin
 
-<!--
-**nasrin567/nasrin567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | SQL, Python, Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔹 Skilled in SQL (Joins, CTEs, Window Functions)  
+- 🔹 Use Python (Pandas, NumPy) for data analysis  
+- 🔹 Focused on extracting business insights from data  
+- 🔹 Learning Data Science & Machine Learning  
+
+---
+
+## 🛠️ Tech Stack  
+- Python, SQL  
+- Pandas, NumPy  
+- Power BI, Matplotlib  
+- MySQL  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 SQL Data Analytics Project  
+- Analyzed sales data using advanced SQL queries  
+- Identified key trends and business insights  
+
+👉 [View Project](https://github.com/nasrin567/YOUR-REPO)
+
+---
+
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=nasrin567&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact  
+- Email: your-email  
+- LinkedIn: your-link  
