@@ -23,9 +23,8 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
-
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=nasrin567&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=nasrin567&show_icons=true&theme=radical&cache_seconds=60)
 
 ---
 
