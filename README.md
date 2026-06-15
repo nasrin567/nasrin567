@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Nasrin
 
-📊 Aspiring Data Analyst | SQL, Python, Power BI  
+📊 Aspiring Data Analyst | SQL, Python, Power BI ,Excel  
 
 ---
 
 ## 🚀 About Me  
 - 🔹 Skilled in SQL (Joins, CTEs, Window Functions)  
 - 🔹 Use Python (Pandas, NumPy) for data analysis  
-- 🔹 Focused on extracting business insights from data  
+- 🔹 Focused on extracting business insights from data
+- 🔹 Passionate about solving real-world business problems using data
 - 🔹 Learning Data Science & Machine Learning  
 
 ---
