@@ -30,4 +30,4 @@
 
 ## 📫 Contact  
 - Email: nasrinkhatoon4421@gmail.com
-- LinkedIn: your- https://www.linkedin.com/in/nasrin-khatoon
+- LinkedIn: https://www.linkedin.com/in/nasrin-khatoon
